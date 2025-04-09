@@ -1,0 +1,15 @@
+vendor_id,product_id,serial_number,manufacturer,product_name,date_added,added_by,department
+0781,5583,4C530001231A,SanDisk,Ultra Fit,2025-01-15,admin,IT
+0951,1666,KIN00D548AC1,Kingston,DataTraveler 100 G3,2025-01-15,admin,IT
+090C,1000,14F021B6,Silicon Power,USB Flash Drive,2025-01-16,admin,Marketing
+1307,0165,07129AB34D56,SanDisk,Cruzer Blade,2025-01-17,admin,Finance
+0BC2,3312,NA94561278,Seagate,Expansion Desktop,2025-01-18,admin,Engineering
+046D,C52B,LZ0045DR89G1,Logitech,Unifying Receiver,2025-01-20,admin,IT
+8564,1000,ST9500325AS,WD,My Passport,2025-01-22,admin,HR
+0718,0706,WDBUZG0010BBK,Western Digital,Elements 1TB,2025-01-23,admin,Engineering
+125F,312B,000006BC,Adata,UV150,2025-01-25,admin,Finance
+054C,05BE,4862F21BA593C,Sony,USM-M Series,2025-01-28,admin,Marketing04f2,b596,VID_04F2&PID_B596\5&1CCE3BFD&0&10,USB,USB Composite Device,2025-04-07,admin,
+04f2,b596,VID_04F2&PID_B596&MI_00\6&1F68AC8C&0&0000,Integrated,Integrated Camera,2025-04-07,admin,
+8087,0a2b,VID_8087&PID_0A2B\5&1CCE3BFD&0&7,Intel(R),Intel(R) Wireless Bluetooth(R),2025-04-07,admin,
+2717,ff40,VID_2717&PID_FF40\QSX8TS9D9DZ5EI6D,Redmi,Redmi 9i,2025-04-07,admin,
+8087,0a2b,VID_8087&PID_0A2B\5&1CCE3BFD&0&7,Intel(R),Intel(R) Wireless Bluetooth(R),2025-04-07,admin,
