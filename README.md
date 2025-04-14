@@ -1,4 +1,4 @@
-# USB Theft Detection System
+# USB Theft Detection System #
 
 ## Project Overview
 
